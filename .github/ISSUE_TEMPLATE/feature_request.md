@@ -1,20 +1,13 @@
----
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: Vipul1432
-
----
 
 **Linked Work Items**
 ​
+
 **Checklist**
 
-- [x] Code adheres to [Git and Pull Request Guidelines](http://knowledge.promactinfo.com/books/guidelines/page/git-and-pull-request-checklist)
-- [x] Code adheres to [C# Guidelines](http://knowledge.promactinfo.com/books/guidelines/page/c-checklist)
-- [x] Code adheres to [Database practices Guidelines](http://knowledge.promactinfo.com/books/guidelines/page/project-structure-and-database-practices-checklist-%28aspnet-and-ef%29)
-- [x] Code adheres to [Asp.Net/Asp.Net Core Guidelines](http://knowledge.promactinfo.com/books/guidelines/page/project-structure-and-database-practices-checklist-%28aspnet-and-ef%29)
-- [x] Code adheres to [Frontend Guidelines](http://knowledge.promactinfo.com/books/guidelines/page/front-end-checklist)
+- [x] Code adheres to [Git and Pull Request Guidelines](https://github.com/os2Loop/guidelines/blob/develop/git-guidelines.md)
+- [x] Code adheres to [C# Guidelines](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
+- [x] Code adheres to [Database practices Guidelines](https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-guides?view=sql-server-ver16)
+- [x] Code adheres to [Operating System Guidelines](https://www.ibm.com/docs/en/randori?topic=guidance-operating-system)
+- [x] Code adheres to [Frontend Guidelines](https://angular.io/guide/styleguide)
 
 **Comments (If any)**
