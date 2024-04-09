@@ -3,18 +3,18 @@ name: Feature request
 about: Suggest an idea for this project
 title: ''
 labels: ''
-assignees: ''
+assignees: Vipul1432
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Linked Work Items**
+​
+**Checklist**
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+- [x] Code adheres to [Git and Pull Request Guidelines](http://knowledge.promactinfo.com/books/guidelines/page/git-and-pull-request-checklist)
+- [x] Code adheres to [C# Guidelines](http://knowledge.promactinfo.com/books/guidelines/page/c-checklist)
+- [x] Code adheres to [Database practices Guidelines](http://knowledge.promactinfo.com/books/guidelines/page/project-structure-and-database-practices-checklist-%28aspnet-and-ef%29)
+- [x] Code adheres to [Asp.Net/Asp.Net Core Guidelines](http://knowledge.promactinfo.com/books/guidelines/page/project-structure-and-database-practices-checklist-%28aspnet-and-ef%29)
+- [x] Code adheres to [Frontend Guidelines](http://knowledge.promactinfo.com/books/guidelines/page/front-end-checklist)
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**Comments (If any)**
